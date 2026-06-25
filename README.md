@@ -140,7 +140,7 @@
 ## ✅ Step-03:  Create Sub-Domain (if needed):
 
 - After login search `Domains`
-![image.png](/docs-img/image-3.png)
+![image.png](/image-3.png)
 - From the `Domains` Page click to the `Create A New Domain` button.
 - Then create and submit
 
