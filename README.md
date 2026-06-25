@@ -152,13 +152,13 @@
 ## ✅ Step-04:  Setup Application:
 
 - Go to `Setup Python App` page
-![image.png](/docs-img/image-4.png)
+![image.png](/image-4.png)
 - Click `Create Application` button
 - `Python Version:`  Select Python Version
 - `Application root:`  Enter project directory name. Where you upload your project files.
 - `Application URL:` Select the `Domain or Subdomain`
 - Then hit the `Create` button.
-![image.png](/docs-img/image-4.1.png)
+![image.png](/image-4.1.png)
 
 📒[Go To Context](#context)
 
@@ -169,19 +169,19 @@
 - Go to `Manage My Databases`
 - On the Create New Database section set the Database name then hit the `Create Database` button
     
-    ![image.png](/docs-img/image-5.1.png)
+    ![image.png](/image-5.1.png)
     
 - Then scroll down and find `Add New User` section. Here set the database `username, password`
     
-    ![image.png](/docs-img/image-5.2.png)
+    ![image.png](/image-5.2.png)
     
 - Again scroll down and find `Add User To Database` section. Then select `User and Database`
     
-    ![image.png](/docs-img/image-5.3.png)
+    ![image.png](/image-5.3.png)
     
 - After Add it redirect to the `Manage User Privileges` from here select `ALL PRIVILEGES` then click `Make Changes` button.
     
-    ![image.png](/docs-img/image-5.4.png)
+    ![image.png](/image-5.4.png)
     
 
 `**🚨 Alert:**` Must be copy the Database Name, Username and Password. Because need to configure database on the settings.py
@@ -257,11 +257,11 @@ DATABASES = {
 - From the Application Setup Page apply the command manually
 - Write and Add `requirements.txt` into this section and click `Run Pip Install`. Note: Sometimes it send error message first try. If you fetch error then run again.
 
-    ![image.png](/docs-img/image-7.1.png)
+    ![image.png](/image-7.1.png)
 
 - Then into this section run other command and click `Run Script` button without `py or python`:
 
-    ![image.png](/docs-img/image-7.2.png)
+    ![image.png](/image-7.2.png)
 
     After that click the `RESTART` button. Now you can visit your application.
 
